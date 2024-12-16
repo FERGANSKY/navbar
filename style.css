@@ -1,0 +1,22 @@
+
+.nav-link{
+    color: black;
+    border-bottom: 2px solid white;
+    transition: 0.5s;
+
+}
+
+
+
+.nav-link:hover{
+    color: orange;
+    border-bottom: 2px solid orange;  
+}
+
+.box-3 button{
+    width: 146px;
+    height: 40px;
+    background-color: #FF9900;
+    border: none;
+
+}
